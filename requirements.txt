@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-google-genai
+duckduckgo-search
+PyPDF2
+
+ckgo-search
+PyPDF2
+pandas
